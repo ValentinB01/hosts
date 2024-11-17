@@ -10,4 +10,4 @@
 	echo "Serverul ip este acelasi cu cel de pe Google."
 fi
 
-echo "Cuntan Paul"
+echo "Cuntan Paul!"
